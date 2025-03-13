@@ -34,7 +34,7 @@ visual experiences and functional solutions, in solving everyday emerging proble
 
 ![](/md-a/data.svg)  **Database:** love watching anime,  a super One Piece fan
 
-![](/md-a/research.svg)  **Research:** A star wars fan
+![](/md-a/research.svg)  **Research:** Participatory research, diary studies, ethnographic study, contextual inquiry, and usability testing.
 
 ![](/md-a/tools.svg) **Tools:** Visual studio, visual studio code, git, GitHub, Android studio, Figma, adobe creative suit, lens studio
 
